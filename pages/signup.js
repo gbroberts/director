@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
         <Navbar/>
-        <Brand title="Home Page" tagline="directory app starter"/>
+        <Brand title="Sign Up Page" tagline="sign up for the app"/>
     </>
   )
 }

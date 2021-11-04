@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
         <Navbar/>
-        <Brand title="Home Page" tagline="directory app starter"/>
+        <Brand title="Login Page" tagline="login to firebase"/>
     </>
   )
 }

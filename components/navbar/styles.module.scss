@@ -1,0 +1,12 @@
+.navbar {
+    padding: 1rem;
+    background-color: crimson;
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+    }
+    a {
+        color: white;
+    }
+}
